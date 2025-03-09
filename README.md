@@ -1,0 +1,2 @@
+# AOSP-CHECKER
+AOSP检出脚本
